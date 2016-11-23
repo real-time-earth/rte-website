@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Vision
-subtitle: for Real Time Earth
+subtitle: for Real-Time Earth
 ---
 
 ## Centers etc.
