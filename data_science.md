@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Science
-subtitle: At Lamont Doherty Earth Observatory
+subtitle: At Lamont-Doherty Earth Observatory
 ---
 
 ## Present

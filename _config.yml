@@ -4,8 +4,8 @@
 # Site settings
 title: Real Time Earth
 description: |
-  A Lamont Doherty Earth Observatory Strategic Initiative 
-owner: Lamont Doherty Earth Observatory # or company name
+  A Lamont-Doherty Earth Observatory Strategic Initiative 
+owner: Lamont-Doherty Earth Observatory # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: rte@ldeo.columbia.edu
 baseurl: "" # the subpath of your site, e.g. /blog

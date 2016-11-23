@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sensor Systems
-subtitle: At Lamont Doherty Earth Observatory
+subtitle: At Lamont-Doherty Earth Observatory
 ---
 
 ## Present
