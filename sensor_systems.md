@@ -6,7 +6,7 @@ subtitle: At Lamont-Doherty Earth Observatory
 
 ### Now
 
-The Real-Time Earth initiative is grounded in the idea that observations drive scientific discovery, and that the Earth sciences are on the threshold of a real-time scientific revolution supported by the proliferation of networked sensors, instruments, devices, and platforms. These sensor systems will enable innovative scientific investigations spanning a large range of spatial and temporal scales and give scientists unprecedented insights into numerous dynamic and interconnected processes on this planet. Lamont scientists have been leading the nascent real-time science revolution. Here are a just a few examples of their groundbreaking research in this field:
+The Real-Time Earth initiative is grounded in the idea that observations drive scientific discovery, and that the Earth sciences are on the threshold of a real-time scientific revolution supported by the proliferation of networked sensors, instruments, devices, and platforms. These sensor systems will enable innovative scientific investigations spanning a large range of spatial and temporal scales and give scientists unprecedented insights into the dynamic and interconnected processes on this planet. Lamont scientists have been leading the nascent real-time science revolution. Here are a just a few examples of their groundbreaking research in this field:
 
 #### Cabled Observatories
 
@@ -47,7 +47,6 @@ Description of Icepod here.
 </div>
 
 Description of OBS systems here.
-
 
 <br style="clear:both" />
 
