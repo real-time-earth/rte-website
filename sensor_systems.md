@@ -39,6 +39,17 @@ Description of drone research here.
 Description of Icepod here.
 
 <br style="clear:both" />
+#### Ocean Bottom Seismometers
+
+<div class="left_image_float">
+  <img src="images/obs.jpg" alt="" width="300">
+  Image credit: ??
+</div>
+
+Description of OBS systems here.
+
+
+<br style="clear:both" />
 
 ******************
 
