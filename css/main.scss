@@ -209,6 +209,16 @@ $baseurl: '{{ site.baseurl }}/images';
 		text-align: right;
 	}
 
+	.left_image_float {
+		color:#888888;
+		font-size: 7pt;
+		width:300px;
+		line-height:1.2em;
+		float:left;
+		margin-right:20px;
+		margin-top:8px;
+	}
+
 /* Section/Article */
 
 	section, article {
