@@ -6,14 +6,13 @@ subtitle: At Lamont-Doherty Earth Observatory
 
 ### Now
 
-The Real-Time Earth initiative is grounded in the idea that observations drive scientific discovery, and that the Earth sciences are on the threshold of a real-time scientific revolution supported by the proliferation of networked sensors, instruments, devices, and platforms. These sensor systems will enable innovative scientific investigations spanning a large range of spatial and temporal scales and give scientists unprecedented insights into numerous dynamic and interconnected processes on this planet. Lamont scientists have been leading the nascent real-time science revolution. Here are a just a few examples of their groundbreaking research in this field:
+The Real-Time Earth initiative is grounded in the idea that observations drive scientific discovery, and that the Earth sciences are on the threshold of a real-time scientific revolution supported by the proliferation of networked sensors, instruments, devices, and platforms. These sensor systems will enable innovative scientific investigations spanning a large range of spatial and temporal scales and give scientists unprecedented insights into the dynamic and interconnected processes on this planet. Lamont scientists have been leading the nascent real-time science revolution. Here are a just a few examples of their groundbreaking research in this field:
 
 #### Cabled Observatories
 
-<div style="color:#888888; font-size: 7pt; width:300px; line-height:1.2em; float:left;
-margin-right:20px; margin-top:8px">
-<img src="images/ooi.png" alt="" width="300">
-Image credit: National Science Foundation's Ocean Observatories Initiative
+<div class="left_image_float">
+  <img src="images/ooi.png" alt="" width="300">
+  Image credit: National Science Foundation's Ocean Observatories Initiative
 </div>
 
 The Cabled Array, a component of NSF's Ocean Observatories Initiative, became fully operational in 2014. It is the most advanced submarine volcanic observatory in the world, connecting scores of seafloor instruments and water column profilers directly to shore and to the Internet over a ~500 km high power (8 kW) and high bandwidth (10 Gbs) fiber-optic cable. Two-way communication between cabled instruments allows highly interactive scientific investigations of oceanographic and geophysical processes, and can allow rapid responses to geological events such as volcanic eruptions and earthquakes.
@@ -22,25 +21,32 @@ With the Cabled Array, scientists now have a real-time, tectonic plate-scale pre
 
 #### Drone Science
 
-<div style="color:#888888; font-size: 7pt; width:300px; line-height:1.2em; float:left;
-margin-right:20px; margin-top:8px">
-<img src="images/drone.png" alt="" width="300">
-Image credit: Chris Zappa
+<div class="left_image_float">
+  <img src="images/drone.png" alt="" width="300">
+  Image credit: Chris Zappa
 </div>
-<!---<img src="images/payload.png" alt="" width="250">-->
 
 Description of drone research here.
 
 <br style="clear:both" />
 #### Icepod
 
-<div style="color:#888888; font-size: 7pt; width:300px; line-height:1.2em; float:left;
-margin-right:20px; margin-top:8px">
-<img src="images/icepod.jpg" alt="" width="300">
-Image credit: ??
+<div class="left_image_float">
+  <img src="images/icepod.jpg" alt="" width="300">
+  Image credit: ??
 </div>
 
 Description of Icepod here.
+
+<br style="clear:both" />
+#### Ocean Bottom Seismometers
+
+<div class="left_image_float">
+  <img src="images/obs.jpg" alt="" width="300">
+  Image credit: ??
+</div>
+
+Description of OBS systems here.
 
 <br style="clear:both" />
 
