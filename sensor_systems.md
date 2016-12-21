@@ -43,7 +43,7 @@ Description of Icepod here.
 
 <div class="left_image_float">
   <img src="images/obs.jpg" alt="" width="300">
-  Image credit: ??
+  Image credit: Jim Gaherty
 </div>
 
 The Lamont Ocean Bottom Seismology Lab designs, builds, and deploys ocean-bottom seismometers and seafloor pressure recorders to measure earthquake and other seismic activity, to image the Earth's crust and mantle, and to track long-term deformation of the seafloor. These observations, made from a fleet of sixty Lamont instruments, are used to understand the dynamics and structure of the tectonic plates and their margins, particularly at subduction zones and mid-ocean ridges.
