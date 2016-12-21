@@ -46,7 +46,9 @@ Description of Icepod here.
   Image credit: ??
 </div>
 
-Description of OBS systems here.
+The Lamont Ocean Bottom Seismology Lab designs, builds, and deploys ocean-bottom seismometers and seafloor pressure recorders to measure earthquake and other seismic activity, to image the Earth's crust and mantle, and to track long-term deformation of the seafloor. These observations, made from a fleet of sixty Lamont instruments, are used to understand the dynamics and structure of the tectonic plates and their margins, particularly at subduction zones and mid-ocean ridges.
+
+Lamont's OBS lab specializes in the continental shelf above subduction zones, where the world's deadliest earthquakes and tsunamis originate. In these shallow waters, bottom-trawl fishing, strong near-seafloor currents, and large waves can damage instruments or degrade the observations. The lab's scientists and engineers tackle these challenges with innovative instrument design, including collocated seismic and pressure sensors and unique shielded installations that protect the sensors from trawl nets and seafloor currents.
 
 <br style="clear:both" />
 
@@ -55,7 +57,3 @@ Description of OBS systems here.
 ### The Future
 
 The Real-Time Earth initiative will help Lamont scientists realize their ideas for making novel measurements and developing connected sensor systems by establishing the Technology Innovation Center. This center will serve as a technology incubator providing Lamont scientists with the tools they need to continue leading the real-time science revolution. The Tech Center will provide the resources, both in terms of engineering personnel and next-generation fabrication equipment, to help them design new observation-based Earth science experiments. The Tech Center will have a funding and staffing model that will ensure the independence of the group and will allow all scientists across the observatory the ability to plug in to the incubator, create new observing systems, and advance Earth science knowledge.
-
-
-
-
