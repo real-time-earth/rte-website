@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RTE Earth Data Science Symposium
+title: RTE Data Science Symposium
 subtitle: Monell Auditorium, March 7, 2017
 ---
 
@@ -25,5 +25,5 @@ The goal of this symposium is to bring together scientists from the broader Lamo
 | 1430-1445 | Richard Seager Naomi Henderson | The big data problem in climate research, Lamont’s efforts to partially solve it, and grander ideas for the way forward |
 | 1445-1500 | Nick Frearson                  | Acquiring, processing, analysing and archiving large data sets (100's of TB) from airborne field surveys                |
 | 1500-1515 | Susanne Straub                 | The Arc DataBase - working with global arc volcanic rocks                                                               |
-| 1530-1545 | Ben Holzman                    | Cyclic changes in micro-seismicity in the Geysers geothermal field, as revealed by Machine Listening                    |
-| 1545-1630 |                                | Group Discussion                                                                                                               |
+| 1515-1530 | Ben Holzman                    | Cyclic changes in micro-seismicity in the Geysers geothermal field, as revealed by Machine Listening                    |
+| 1530-1630 |                                | Group Discussion                                                                                                               |
