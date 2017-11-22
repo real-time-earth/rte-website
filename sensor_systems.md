@@ -22,7 +22,7 @@ With the Cabled Array, scientists now have a real-time, tectonic plate-scale pre
 #### Drone Science
 
 <div class="left_image_float">
-  <img src="images/drone2.png" alt="" width="300">
+  <img src="images/drone2.jpg" alt="" width="300">
   Image credit: Chris Zappa
 </div>
 
@@ -30,7 +30,6 @@ The Lamont Air-Sea Interaction (ASI) Laboratory develops scientific instrument p
 
 The ASI Lab has developed and deployed payloads that include: hyperspectral visible imaging spectrometers, solar pyranometers and longwave pyrgeometers, high-resolution visible and infrared imaging cameras, LIDAR systems, and drone-deployed micro-drifters (DDµD) that telemeter both atmosphere and upper ocean data. UAVs deployed from research vessels will provide a transformational prism for science unequaled using 1-dimensional data snapshots from ships or moorings alone in a way not possible before.
 
-<br style="clear:both" />
 #### Icepod
 
 <div class="left_image_float">
@@ -40,7 +39,6 @@ The ASI Lab has developed and deployed payloads that include: hyperspectral visi
 
 The Lamont Polar Geophysics group studies amongst other things ice sheet margins. To help them do this they develop sensors and suites of sensors to probe the ice and its surroundings. One of these developments is IcePod, a modular data collection and acquisition system designed to carry multiple airborne sensors on a C-130 Hercules aircraft and be operated by a single moderately technical person. The IcePod system consists of high resolution visible wave and infra-red cameras and a scanning laser used to map incremental changes to the state and elevation of the ice surface, two radars, one to measure ice depth and observe processes internally and at the base of the ice and the other to look at near surface processes such as snow accumulation rates. Lastly, a magnetometer and gravimeter are used to infer the local techtonic setting and to map bathymetry beneath the ocean and floating ice. The system typically generates upward of 100TB of data per season which is then processed and analysed at Lamont. Finally, data products are made available to the science community in general and are currently served from Servers on site at Lamont.
 
-<br style="clear:both" />
 #### Ocean Bottom Seismometers
 
 <div class="left_image_float">
