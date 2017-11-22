@@ -22,11 +22,13 @@ With the Cabled Array, scientists now have a real-time, tectonic plate-scale pre
 #### Drone Science
 
 <div class="left_image_float">
-  <img src="images/drone.png" alt="" width="300">
+  <img src="images/drone2.png" alt="" width="300">
   Image credit: Chris Zappa
 </div>
 
-Description of drone research here.
+The Lamont Air-Sea Interaction (ASI) Laboratory develops scientific instrument payloads for moderate-size fixed-wing unmanned aerial vehicles (UAVs) in an effort to improve air-sea interaction models and to predict and advance our understanding of critical ocean science questions. UAVs can supplement the sensing capabilities of platforms such as satellites, aircraft, research vessels, moorings, and gliders, and are ideal for providing "over the horizon" information for ship-based field studies. Like satellites and aircraft, UAVs can provide a synoptic view of a relatively large area, however they are usually able to fly under cloud decks to observe the ocean surface in regions that are perennially cloud covered such as the Arctic, and can be tightly integrated into a ship-based field program in ways that an aircraft mission staged from a distant airfield cannot.
+
+The ASI Lab has developed and deployed payloads that include: hyperspectral visible imaging spectrometers, solar pyranometers and longwave pyrgeometers, high-resolution visible and infrared imaging cameras, LIDAR systems, and drone-deployed micro-drifters (DDµD) that telemeter both atmosphere and upper ocean data. UAVs deployed from research vessels will provide a transformational prism for science unequaled using 1-dimensional data snapshots from ships or moorings alone in a way not possible before.
 
 <br style="clear:both" />
 #### Icepod
