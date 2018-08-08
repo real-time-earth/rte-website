@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Computational Technology Internships
-subtitle: A Real-Time Earth Pilot Program
+subtitle: A Real-Time Earth Pilot Program</br>Spring 2018
+exclude: true
 ---
 
 #### Summary
