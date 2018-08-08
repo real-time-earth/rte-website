@@ -25,7 +25,7 @@ Interns are not expected to have prior knowledge of Earth science but should hav
 
 #### Potential Projects
 
-
+[Here](intern_program_projects) is a list of potential projects that will be available this semester.
 
 #### Additional Details and Application Instructions
 
