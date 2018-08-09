@@ -2,7 +2,8 @@
 #
 
 # Site settings
-remote_theme: arkadianriver/spectral
+# remote theme should not be necessary
+#remote_theme: arkadianriver/spectral
 title: Real-Time Earth
 description: |
   A Lamont-Doherty Earth Observatory Strategic Initiative 
