@@ -31,9 +31,9 @@ Interns are not expected to have prior knowledge of Earth science but should hav
 
 Interns will be expected to work 10 hours/week and will be paid $30/hour. Internships will take place during the Fall Semester of 2018.
 
-To apply, begin by filling out this form.
+To apply, please begin by filling out [this form](https://goo.gl/forms/gVzCQ1EFnUg543Uu1).
 
-<i>Only after</i> you have filled out this form, please visit our [online application site](https://jobs.columbia.edu/applicants/Central?quickFind=165815) for further information and to submit the following:
+<i>After</i> you have filled out this form, please visit our [online application site](https://jobs.columbia.edu/applicants/Central?quickFind=171060) for further information and to submit the following:
  
  - 1-page cover letter explaining your background and goals
  - R&eacute;sum&eacute; (please include a link to your GitHub profile)
