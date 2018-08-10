@@ -5,7 +5,7 @@ subtitle: A Real-Time Earth Pilot Program
 exclude: true
 ---
 
-## Potential Projects
+## Potential Projects for Fall 2018
 
 ### Video Image Analysis of Deep-Sea Chemosynthesizing Bacteria
 
