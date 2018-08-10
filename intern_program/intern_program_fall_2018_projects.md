@@ -17,3 +17,15 @@ The Cabled Array, a part of NSF’s Ocean Observatories Initiative, is the most 
 
 #### Skills Required
 Python programming, image analysis
+
+
+### Building a Cloud Optimized Climate Data Catalog
+
+#### Supervisor
+[Ryan Abernathey](https://rabernat.github.io/), Associate Professor
+
+#### Description
+The [Pangeo Project](http://pangeo-data.org) aims to make it easier for geoscientists to work with Big Data, by creating environments for data analysis in the cloud. blah blah blah...
+
+#### Skills Required
+Python programming
