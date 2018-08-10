@@ -25,7 +25,7 @@ Interns are not expected to have prior knowledge of Earth science but should hav
 
 #### Potential Projects
 
-[Here](intern_program_projects) is a list of potential projects that will be available this semester.
+[Here](intern_program_fall_2018_projects) is a list of potential projects that will be available this semester.
 
 #### Additional Details and Application Instructions
 
@@ -41,4 +41,4 @@ To apply, please begin by filling out [this form](https://goo.gl/forms/gVzCQ1EFn
 
 We only accept online applications.
 
-<i>Columbia University is an Equal Opportunity/Affirmative Action employer.<br>Race/Gender/Disability/Veteran</i>
+<i>Columbia University is an Equal Opportunity/Affirmative Action employer &ndash; Race/Gender/Disability/Veteran.</i>
