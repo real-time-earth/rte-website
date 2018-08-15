@@ -34,3 +34,16 @@ This includes building a `.json` catalog of the existing datasets, integration a
 
 #### Skills Required
 Python programming, basic knowledge of html
+
+
+### Machine Learning applied to characterization of small earthquakes, towards real time identification of precursors to Big Ones. 
+ 
+#### Supervisor
+Ben Holtzman, Lamont Associate Research Professor (Senior Staff), 
+Felix Waldhauser, Lamont Research Professor
+
+#### Description
+This project is to apply novel machine learning methods for characterization of earthquakes. Real time monitoring of major faults (like the San Andreas Fault, CA) focuses on detection and location of small earthquakes (microseismicity). The scientific holy grail of identification of precursors to large earthquakes may lie in recognizing changes in patterns of microseismicity. Our new unsupervised machine learning methods analyze subtle patterns in the frequency content of microseismic events that probably tell us about the mechanical state of the fault. This project consists of applying these methods to past microseismicity on the San Andreas Fault, to look for patterns in spectral character, towards the development of new real time fault monitoring tools. 
+
+#### Skills Required
+Familiarity with python and MATLAB programming. Interest in signal processing, machine learning and earthquake physics. 
