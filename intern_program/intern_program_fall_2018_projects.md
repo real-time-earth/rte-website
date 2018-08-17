@@ -34,3 +34,30 @@ This includes building a `.json` catalog of the existing datasets, integration a
 
 #### Skills Required
 Python programming, basic knowledge of html
+
+
+### Building and analyzing 3D virtual terrain models of lava domes from lab experiments and the field
+
+#### Supervisor
+Einat Lev, Lamont Associate Research Professor
+
+#### Description
+Lava domes form when highly viscous lava erupts from a volcano and piles up above the source vent. Domes are higly unstable and collapse frequently, forming dangerous currents of ash and debris. This summer we performed a series of experiments where we simulated lava dome emplacement using wax+clay slurries, and studied the influence of different parameters on the structure of the resulting dome. We collected lots of pictures of the wax domes, and now would like to use photogrammetry to create virtual 3D models of them. Then, the student will apply the same skills to constructing 3D terrain models of lava domes and flows we colelcted using drones in Indonesia, Ecuador, and Hawai'i. All the models will be analyzed for surface fractures and roughness using Matlab/Python image processing tools and QGIS/ArcGIS mapping tools. 
+
+All resulting models will be shared with the public via https://sketchfab.com/LDEO-volcanology and will accompany educational activities. 
+
+#### Skills Required
+Matlab, Python.  
+
+
+### Optimizing a novel lava flow simulation code
+
+#### Supervisor
+Einat Lev, Lamont Associate Research Professor
+
+#### Description
+Lava flows are ubiquitous and present a serious natural hazard. Frequently, lava flows inflate, for instance after a solid crust forms at the flow's surface or the flow got constrained by an obstacle. However, current flow simulation codes are not capable of simulating this fundemental process. Our group has recently developed a new numerical code based on Finite Elements and Discontinous Galerkin methods. The code works great, and the next step is to make it faster, parallel, and more user-friendly, so that it can be used effectively during a volcanic eruption crisis.
+
+#### Skills Required
+C/C++, Matlab, Fortran, experience with MPI/Cloud environments.
+
