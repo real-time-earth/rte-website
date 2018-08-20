@@ -34,3 +34,15 @@ This includes building a `.json` catalog of the existing datasets, integration a
 
 #### Skills Required
 Python programming, basic knowledge of html
+
+### Studying melting over Greenland and Antarctica at high spatial resolution
+
+#### Supervisor
+[Marco Tedesco], Lamont Research Professor
+
+#### Description
+
+Studying melting over the Greenland and Antarctica ice sheets is fundamental for understanding their trends and implications for sea level rise. this can be done through the use of passive microwave observations from space, usually delivered at a spatial resolution of 25 km. A new product, however, produces passive microwave data at 3.3 km, hence expanding the possibility of detecting spatial changes or maps of melting but increasing the volume of data to be handled, with a total size of ~ 28 Tb for the period 1979 - 2017. We are looking for someone who will help with the extraction and analysis of the PMW datasets and the generation of melting trends over both ice sheets using tools such as Pangeo or similar.
+
+#### Skills Required
+Python programming, basic knowledge of html, knowledge of matlab is desired but not required
