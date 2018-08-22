@@ -34,3 +34,14 @@ This includes building a `.json` catalog of the existing datasets, integration a
 
 #### Skills Required
 Python programming, basic knowledge of html
+
+### Modeling time in the IRI Data Library (DL): new functionality needed
+
+#### Supervisor
+Rémi COUSIN, Climate Information Analyst
+
+#### Description
+The IRI DL allows for the online analysis of hundreds of variables by the scientific or practice community. A new batch of variables comes from so called subseasonal-to-seasonal (S2S) climate models outputs that are issued every day or at a lesser frequency, with daily lead times up to typically 40 days. The time dimensions of those outputs need to be manipulated, sampled, aggregated, to match the time dimension of other variables so that they can be compared (e.g. against other models, observations). The IRI DL Ingrid programming language can already achieve a lot to manipulate and transform time, however, new easy-to-use functions are needed to facilitate these manipulations for non-Ingrid experts. The intern will familiarize her/himself with Ingrid and develop new easy-to-use Ingrid functions to perform time analyses on S2S variables.
+
+#### Skills Required
+Willing to learn Ingrid programming language
