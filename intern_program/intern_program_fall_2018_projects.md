@@ -59,6 +59,7 @@ Einat Lev, Lamont Associate Research Professor
 Lava flows are ubiquitous and present a serious natural hazard. Frequently, lava flows inflate, for instance after a solid crust forms at the flow's surface or the flow got constrained by an obstacle. However, current flow simulation codes are not capable of simulating this fundemental process. Our group has recently developed a new numerical code based on Finite Elements and Discontinous Galerkin methods. The code works great, and the next step is to make it faster, parallel, and more user-friendly, so that it can be used effectively during a volcanic eruption crisis.
 
 #### Skills Required
-One or more of: C/C++, Matlab, Fortran.
+One or more of: C/C++, Matlab, Python, Fortran.
+Willingness to learn new programming langages.
 Highly desired: experience with MPI/Cloud or pther parallel programming environments.
 
