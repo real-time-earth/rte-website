@@ -63,3 +63,15 @@ One or more of: C/C++, Matlab, Python, Fortran.
 Willingness to learn new programming langages.
 Highly desired: experience with MPI/Cloud or pther parallel programming environments.
 
+
+### Detecting methane seeps on the seafloor of the Gulf of Mexico in sonar data archives
+
+#### Supervisors
+Ajit Subramaniam, Lamont  Research Professor; Alberto Malinverno, Lamont Research Professor; Andy Stock, Earth Institute Postdoctoral Fellow
+
+#### Description
+Methane seeps on the seafloor create important local habitat and affect marine ecology and geochemistry at broad scales. Such seeps are likely to be widespread in the northern Gulf of Mexico, but there is no comprehensive inventory of their locations. Recently, the NOAA National Centers for Environmental Information established an open, online archive of water column sonar data.  While primarily collected for fisheries research,  bubble plumes rising from seafloor methane seeps are also visible in these data.  Existing studies document many instances of methane seeps found by visual examination of sonar records.  However, as the NOAA archive contains about 30 terabytes of sonar data and continues to grow, systematic visual examination will be too time-consuming to be practical. In this project, you will thus participate in feature engineering and implement classification algorithms (e.g. support vector machines) to search these vast sonar data archives and automatically detect possible methane seep locations.
+
+#### Skills required
+Programming (R and Java preferred), basic statistical or machine learning 
+
