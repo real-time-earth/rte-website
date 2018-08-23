@@ -47,7 +47,7 @@ Lava domes form when highly viscous lava erupts from a volcano and piles up abov
 All resulting models will be shared with the public via https://sketchfab.com/LDEO-volcanology and will accompany educational activities. 
 
 #### Skills Required
-Ability to handle multiple sets of files in an organized fassion, to follow existing workflows precisely, and to work with different operating systems (Mac/Windows and Linux).
+Ability to handle multiple sets of files in an organized fashion, to follow existing workflows precisely, and to work with different operating systems (Mac/Windows and Linux).
 
 
 ### Optimizing a novel lava flow simulation code
