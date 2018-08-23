@@ -35,6 +35,7 @@ This includes building a `.json` catalog of the existing datasets, integration a
 #### Skills Required
 Python programming, basic knowledge of html
 
+
 ### Studying melting over Greenland and Antarctica at high spatial resolution
 
 #### Supervisor
@@ -46,3 +47,44 @@ Studying melting over the Greenland and Antarctica ice sheets is fundamental for
 
 #### Skills Required
 Python programming, basic knowledge of html, knowledge of matlab is desired but not required
+
+
+### Building and analyzing 3D virtual terrain models of lava domes from lab experiments and the field
+
+#### Supervisor
+Einat Lev, Lamont Associate Research Professor
+
+#### Description
+Lava domes form when highly viscous lava erupts from a volcano and piles up above the source vent. Domes are higly unstable and collapse frequently, forming dangerous currents of ash and debris. This summer we performed a series of experiments where we simulated lava dome emplacement using wax+clay slurries, and studied the influence of different parameters on the structure of the resulting dome. We collected lots of pictures of the wax domes, and now would like to use photogrammetry to create virtual 3D models of them. Then, the student will apply the same skills to constructing 3D terrain models of lava domes and flows we colelcted using drones in Indonesia, Ecuador, and Hawai'i. All the models will be analyzed for surface fractures and roughness using Matlab/Python image processing tools and QGIS/ArcGIS mapping tools. The intern will work with existing codes and program and will apply existing workflows. 
+
+All resulting models will be shared with the public via https://sketchfab.com/LDEO-volcanology and will accompany educational activities. 
+
+#### Skills Required
+Ability to handle multiple sets of files in an organized fashion, to follow existing workflows precisely, and to work with different operating systems (Mac/Windows and Linux).
+
+
+### Optimizing a novel lava flow simulation code
+
+#### Supervisor
+Einat Lev, Lamont Associate Research Professor
+
+#### Description
+Lava flows are ubiquitous and present a serious natural hazard. Frequently, lava flows inflate, for instance after a solid crust forms at the flow's surface or the flow got constrained by an obstacle. However, current flow simulation codes are not capable of simulating this fundemental process. Our group has recently developed a new numerical code based on Finite Elements and Discontinous Galerkin methods. The code works great, and the next step is to make it faster, parallel, and more user-friendly, so that it can be used effectively during a volcanic eruption crisis.
+
+#### Skills Required
+One or more of: C/C++, Matlab, Python, Fortran.
+Willingness to learn new programming langages.
+Highly desired: experience with MPI/Cloud or pther parallel programming environments.
+
+
+### Detecting methane seeps on the seafloor of the Gulf of Mexico in sonar data archives
+
+#### Supervisors
+Ajit Subramaniam, Lamont  Research Professor; Alberto Malinverno, Lamont Research Professor; Andy Stock, Earth Institute Postdoctoral Fellow
+
+#### Description
+Methane seeps on the seafloor create important local habitat and affect marine ecology and geochemistry at broad scales. Such seeps are likely to be widespread in the northern Gulf of Mexico, but there is no comprehensive inventory of their locations. Recently, the NOAA National Centers for Environmental Information established an open, online archive of water column sonar data.  While primarily collected for fisheries research,  bubble plumes rising from seafloor methane seeps are also visible in these data.  Existing studies document many instances of methane seeps found by visual examination of sonar records.  However, as the NOAA archive contains about 30 terabytes of sonar data and continues to grow, systematic visual examination will be too time-consuming to be practical. In this project, you will thus participate in feature engineering and implement classification algorithms (e.g. support vector machines) to search these vast sonar data archives and automatically detect possible methane seep locations.
+
+#### Skills required
+Programming (R and Java preferred), basic statistical or machine learning 
+
