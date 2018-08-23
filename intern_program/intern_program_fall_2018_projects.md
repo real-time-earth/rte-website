@@ -38,7 +38,7 @@ Python programming, basic knowledge of html
 ### Studying melting over Greenland and Antarctica at high spatial resolution
 
 #### Supervisor
-[Marco Tedesco], Lamont Research Professor
+Marco Tedesco, Lamont Research Professor
 
 #### Description
 
