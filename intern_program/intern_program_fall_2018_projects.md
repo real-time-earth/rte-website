@@ -112,3 +112,14 @@ This project is to apply novel machine learning methods for characterization of 
 
 #### Skills Required
 Familiarity with Python. Interest in signal processing, machine learning and earthquake physics.
+
+### Building a Seasonal Monitoring Platform Based on Farmer and Climate Information
+ #### Supervisor
+[Daniel Osgood](https://iri.columbia.edu/contact/staff-directory/daniel-osgood/), Lead Scientist for Financial Instruments Sector Team at International Research Institute for Climate and Society
+
+#### Description
+The Financial Instruments Sector Team [FIST](https://iri.columbia.edu/our-expertise/financial-instruments/) helps people overcome climate risk through financial tools like index insurance and index-based disaster risk management. Through our partners, collaborators, and educational activities, we are engaging the players necessary to represent the wide array of expertise and perspectives and build community driven solutions. FIST work also includes, extensive data analysis from the data library [DL](https://iri.columbia.edu/resources/data-library/) and other sources that provide a range of climate information.  This analysis is coupled with the data analysis from ground information retrieved from local partners and stakeholders in various countries. 
+In this project, you will be helping in the development of a seasonal climate and on ground monitoring platform, preferrably a website. This online platform will display appropriate climate information as well as an automated output of the data analyses and visualizations obtained from the data collected from the ground; as a final feature this site should also have the ability to be exported in various formats. 
+ 
+#### Skills Required
+Python programming, R, data analysis
