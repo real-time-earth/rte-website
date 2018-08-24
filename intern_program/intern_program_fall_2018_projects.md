@@ -7,6 +7,19 @@ exclude: true
 
 ## Potential Projects for Fall 2018
 
+### Building a Seasonal Monitoring Platform Based on Farmer and Climate Information
+
+#### Supervisor
+[Daniel Osgood](https://iri.columbia.edu/contact/staff-directory/daniel-osgood/), Lead Scientist for Financial Instruments Sector Team at International Research Institute for Climate and Society
+
+#### Description
+The Financial Instruments Sector Team [FIST](https://iri.columbia.edu/our-expertise/financial-instruments/) helps people overcome climate risk through financial tools like index insurance and index-based disaster risk management. Through our partners, collaborators, and educational activities, we are engaging the players necessary to represent the wide array of expertise and perspectives and build community driven solutions. FIST work also includes, extensive data analysis from the data library [DL](https://iri.columbia.edu/resources/data-library/) and other sources that provide a range of climate information.  This analysis is coupled with the data analysis from ground information retrieved from local partners and stakeholders in various countries. 
+In this project, you will be responsible for the development of a seasonal monitoring platform that automates the data analysis and visualization process, for the data obtained from the ground as well as the appropriate climate information, in a user friendly platform that can also be exported in various formats. 
+
+#### Skills Required
+Python programming, R, data analysis
+
+
 ### Video Image Analysis of Deep-Sea Chemosynthesizing Bacteria
 
 #### Supervisor
