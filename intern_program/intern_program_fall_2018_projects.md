@@ -112,3 +112,14 @@ This project is to apply novel machine learning methods for characterization of 
 
 #### Skills Required
 Familiarity with Python. Interest in signal processing, machine learning and earthquake physics.
+
+### PyIngrid: a simple Python interface for calculation of climate anomalies using the IRI Data Library
+
+#### Supervisors
+[Andrew W. Robertson](https://https://iri.columbia.edu/contact/staff-directory/andrew-robertson/), Head of Climate Group/Senior Research Scientist at the [IRI](https://iri.columbia.edu); [Ángel G. Muñoz] (https://iri.columbia.edu/contact/staff-directory/angel-munoz/), Associate Research Scientist at the [IRI](https://iri.columbia.edu)
+
+#### Description
+We are looking for an enthusiastic Pythonizer to help us advance a simple Python interface already in development, which connects to the IRI Data Library (DL) and uses its coding language, called Ingrid, to compute climatologies and climate anomalies for sub-seasonal (~15-45 days) forecasts. The goal of this particular internship is to write a Python dictionary  to facilitate this interface. The outcome of this internship will be directly used by PyCPT, a Python interface for the Climate Predictability Tool, widely used for research and operational forecasts around the world.   
+
+#### Skills Required
+Basic Python programming, willingness to learn Ingrid (DL's programming language)
