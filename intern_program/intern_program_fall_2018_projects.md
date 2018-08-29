@@ -112,3 +112,15 @@ This project is to apply novel machine learning methods for characterization of 
 
 #### Skills Required
 Familiarity with Python. Interest in signal processing, machine learning and earthquake physics.
+
+
+### Convert the IRI Data Library oauth2 Application from a node.js to a python implementation
+
+#### Supervisor
+John del Corral, Senior Staff Assoc., International Research Institute for Climate and Society (IRI)
+
+#### Description
+Convert the IRI Data Library's oauth2 authorization service from a node.js application to a python application to make it more stable and robust
+
+#### Skills Required
+node.js, python
