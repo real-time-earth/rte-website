@@ -112,3 +112,15 @@ This project is to apply novel machine learning methods for characterization of 
 
 #### Skills Required
 Familiarity with Python. Interest in signal processing, machine learning and earthquake physics.
+
+### Understanding Monsoon Climates through a Multi-Model Ensemble of Idealized Simulations 
+
+#### Supervisor
+Michela Biasutti, Lamont Associate Research Professor
+[Ryan Abernathey](https://rabernat.github.io/), Associate Professor
+
+#### Description
+Modeling the general circulation of the atmosphere in idealized setups allows us to simplify a problem to its essence  while retaining all the complex physics that characterizes the full-complexity models used for climate predictions. Comparing idealized results from different models produces insight into climate dynamics that is robust to uncertain physics.  In order to aid the understanding of tropical rainfall changes under global warming, 14 international modeling groups have contributed 5 idealized simulations to TRACMIP --- the Tropical Rainfall with an Annual cycle and Continent Model Intercomparison Project. All together this amounts to 18TB of model data, with sampling frequency ranging from 3-hourly to monthly. In this project, you will build a Dask-enabled Python interface for Pangeo (http://pangeo.io/) that will allow easy exploration of the data by the research community. While building these tools, you will analyze the response of different models to the same boundary forcings and deduce the physical process that are at the base of such discrepancies. 
+
+#### Skills Required
+Python programming, basic statistical analysis, linux. 
