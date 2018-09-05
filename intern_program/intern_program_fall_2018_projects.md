@@ -124,3 +124,17 @@ Modeling the general circulation of the atmosphere in idealized setups allows us
 
 #### Skills Required
 Python programming, basic statistical analysis, linux. 
+
+
+
+### Modeling and visualizing 3D convection in Earth's mantle
+
+#### Supervisor
+Jacqueline Austermann, Assistant Professor
+
+#### Description
+Earth's interior consists of a distinct core, that is overlain by a slowly convecting mantle, followed by a relatively thin outer crust. The vigor and dynamics of convection in Earth’s mantle is closely linked to understanding Earth's evolution and plate tectonics. In this project the student will model convection within Earth's mantle for different physical properties using an established C++  convection code on Columbia’s computer cluster (Habanero). The output will be postprocessed and visualized using matlab (or python) and paraview. The goal of the project is produce figures and videos of the model output in order to investigate how different physical properties affect the convective regime and specific surface observables such as topography and gravity. Parameter files and some postprocessing scripts already exist along with some first output to be analyzed and visualized.
+
+#### Skills Required
+Matlab (preferred) or Python programming. Knowledge of or interest in learning Paraview. Experience in working with unix command line is helpful.
+
