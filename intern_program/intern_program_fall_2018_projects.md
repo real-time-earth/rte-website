@@ -124,3 +124,16 @@ Modeling the general circulation of the atmosphere in idealized setups allows us
 
 #### Skills Required
 Python programming, basic statistical analysis, linux. 
+=======
+### Machine Learning for Atmosphere-Ocean Interaction and Ocean Waves in Hurricanes
+
+#### Supervisor
+Christopher Zappa, Lamont Research Professor
+
+#### Description
+Hurricanes pose a serious concern for the nation, causing significant risk to life, property and economic vitality. However, hurricane forecasters have little skill in correctly predicting the hurricane intensity and forecast track. Accurate modeling of a fully coupled atmosphere-ocean system includes wind-sea ocean wave forecasts and requires a holistic approach that includes parameterization of those processes that cannot be resolved explicitly. Benefits include more accurate marine weather forecasts, particularly in severe weather conditions which are the most hazardous.
+
+We will use machine learning to develop models for predicting spectral wave breaking properties and fine-scale ocean surface roughness features. Our previous work implemented a random-forest classification that is “taught” to rely on several imaged features, a big advantage in the case of the highly variable ocean surface wave and roughness patterns. The aim now is to provide a more reliable basis for localizing and quantifying ocean waves. The model will be trained and validated using visible, infrared, and polarimetric imagery to distinguish wave breaking from mere surface roughness or steeply-sloped waves.
+
+#### Skills Required
+Python programming (R and Java also acceptable), basic knowledge of HTML, image analysis, machine learning, knowledge of CNNs desired.
