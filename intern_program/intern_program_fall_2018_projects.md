@@ -124,7 +124,7 @@ Modeling the general circulation of the atmosphere in idealized setups allows us
 
 #### Skills Required
 Python programming, basic statistical analysis, linux. 
-=======
+
 ### Machine Learning for Atmosphere-Ocean Interaction and Ocean Waves in Hurricanes
 
 #### Supervisor
